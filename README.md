@@ -2,8 +2,6 @@
 
 **General Chemistry for Homeschoolers, Homesteaders, and Curious Minds**
 
----
-
 ## 🏠 Welcome to Fear-Free Chemistry – Learn at Your Own Pace! ✨
 
 **Chemistry for Curious Minds of All Ages – Without the Politics**
