@@ -1,4 +1,3 @@
-
   <header>
     <h1>Fear-Free Chemistry</h1>
     <p>General Chemistry for Homeschoolers, Homesteaders, and Curious Minds</p>
